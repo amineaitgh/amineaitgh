@@ -2,7 +2,7 @@
   <img src="https://github.com/amineaitgh/amineaitgh/blob/main/banner.png" alt="Banner" />
 </p>
 
-# 💫 Amine Ait El Ghachi
+# ⚡ Amine Ait El Ghachi
 **QA Engineer | Automation & Full-Stack Developer | Tech Enthusiast**
 
 
