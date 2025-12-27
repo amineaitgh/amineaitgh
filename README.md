@@ -12,8 +12,11 @@ I am a Computer Engineering student and QA Engineer with experience in both soft
 ![](https://nirzak-streak-stats.vercel.app/?user=amineaitgh&theme=apprentice&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amineaitgh&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔧 About My Work
-Automation enthusiast | QA Engineer | Full-Stack Developer
+### 🔧 My Work Focus
+![QA](https://img.shields.io/badge/QA-Automation-blue?style=for-the-badge&logo=selenium)
+![Full-Stack](https://img.shields.io/badge/Full--Stack-React_Laravel-green?style=for-the-badge&logo=react)
+![Python](https://img.shields.io/badge/Python-Testing-yellow?style=for-the-badge&logo=python)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=amineaitgh&limit=5&theme=onedark&combine_all_yearly_contributions=true)
