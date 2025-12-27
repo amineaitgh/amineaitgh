@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://github.com/amineaitgh/amineaitgh/blob/main/banner.png" alt="Banner" />
+</p>
+
+# 💫 Amine Ait El Ghachi
+**QA Engineer | Automation & Full-Stack Developer | Tech Enthusiast**
+
+
 # 💫 About Me:
 I am a Computer Engineering student and QA Engineer with experience in both software testing and full-stack development.<br>My background includes manual and automated testing, API testing, and working in Agile/Scrum teams.<br><br>I build automation frameworks using Selenium and Robot Framework, and I also develop web applications using React, Laravel, and MongoDB.<br>This combination allows me to understand applications from both the tester and developer perspectives, ensuring higher quality and more stable releases.<br><br>I am passionate about learning new technologies, improving testing processes, and delivering reliable, scalable software.
 
@@ -16,6 +24,15 @@ I am a Computer Engineering student and QA Engineer with experience in both soft
 ![QA](https://img.shields.io/badge/QA-Automation-blue?style=for-the-badge&logo=selenium)
 ![Full-Stack](https://img.shields.io/badge/Full--Stack-React_Laravel-green?style=for-the-badge&logo=react)
 ![Python](https://img.shields.io/badge/Python-Testing-yellow?style=for-the-badge&logo=python)
+
+### 💡 Key Skills
+<code><img height="30" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></code>
+<code><img height="30" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" /></code>
+<code><img height="30" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" /></code>
+<code><img height="30" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></code>
+<code><img height="30" src="https://img.shields.io/badge/RobotFramework-FF00FF?style=for-the-badge&logo=robotframework&logoColor=white" /></code>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amineaitgh&theme=dark&hide_border=true)
 
 
 ### 🔝 Top Contributed Repo
